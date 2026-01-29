@@ -97,9 +97,6 @@ This project implements **CrowdPulse SecureEntry™ v2.0** protocols:
 
 ![Team Developers](./public/Team/team-dev.png)
 
-* **Akshay Gurav**
-* **Shreyash Kumar**
-
 ---
 
 ## License
